@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SnackOrdering</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register_activity.kt">RegisterActivity.kt</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="title_activity_target">TargetActivity</string>
+    <string name="title_activity_admin">AdminActivity</string>
+</resources>
